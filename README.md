@@ -9,11 +9,11 @@ www.dio.me
 
 ## Controle de Fluxo - Desafio
 
-Com as orientações do instrutor foram foi codificado o seguinte cenário.
+Com as orientações do instrutor foi codificado o seguinte cenário.
 
 O sistema receber dois parâmetros via terminal que representam dois números inteiros, com estes dois números você obtem-se a quantidade de interações (for) e realiza a impressão no console (System.out.print) dos números incrementados, exemplo:
 
-* Se for passado os números 10 e 15, teremos uma interação (for) com 5 ocorrências para imprimir os números.
+* Se forem passado os números 10 e 15, teremos uma interação (for) com 5 ocorrências para imprimir os números.
 * Se o primeiro parâmetro for MAIOR que o segundo parâmetro, será lançado a exceção customizada chamada de `ParametrosInvalidosException` com a mensagem: "O segundo parâmetro deve ser maior que o primeiro"   
 
 Foram realizados os passos abaixo:
